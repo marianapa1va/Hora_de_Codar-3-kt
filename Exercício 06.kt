@@ -1,4 +1,3 @@
-import kotlin.system.exitProcess
 
 fun main(){
     //programa irá ler 2 notas de um aluno, calcular e imprimir a média final. Considerando que a nota de aprovação é 9,5.
