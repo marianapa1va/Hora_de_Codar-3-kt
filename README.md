@@ -1,4 +1,4 @@
-# Hora_de_Codar-3-kt
+# Hora de Codar 3-kt
 
 1 - Escreva um algoritmo para ler 2 valores informados pelo usuário e se o segundo valor informado for igual ou menor que ZERO, deve ser lido um novo valor. Ou seja, para o segundo valor não pode ser aceito o valor zero, nem um valor negativo. 
 
